@@ -1,0 +1,7 @@
+<application>
+  <component name="DatabaseDriversConfigState">
+    <drivers>
+      <db-driver id="com.mysql.jdbc.Driver" version="5.1.47" />
+    </drivers>
+  </component>
+</application>
