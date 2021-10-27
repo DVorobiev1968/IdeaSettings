@@ -71,7 +71,14 @@
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
+      <remarks>Testin MySQL Databases</remarks>
+      <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{taxi}?][\?&lt;&amp;,user={taxi},password={taxi},{:identifier}={:identifier}&gt;]" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
