@@ -2,6 +2,9 @@
   <component name="DatabaseDriversConfigState">
     <drivers>
       <db-driver id="com.mysql.jdbc.Driver" version="5.1.47" />
+      <db-driver id="org.postgresql.Driver" version="42.2.5" />
+      <db-driver id="org.hsqldb.jdbc.JDBCDriver" version="2.6.0" />
+      <db-driver id="com.mysql.cj.jdbc.Driver" version="8.0.25" />
     </drivers>
   </component>
 </application>

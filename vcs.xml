@@ -3,32 +3,72 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:mdespk/mdespk-tp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="https://gitlab.com/mdespk/mdespk-tp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="https://github.com/HuntMark/my-pro-spring-project/tree/master/src/main/java/com/apress/prospring4/ch3" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="dvorobiev1968" />
+          <option name="userName" value="DVorobiev1968" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/rossmann-engineering/EasyModbusTCP.Java.git" />
+          <option name="url" value="https://github.com/Apress/pro-spring-14.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/DVorobiev1968/j2mod.git" />
+          <option name="url" value="https://github.com/digitalpetri/opc-ua-demo-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/drucoder/sweater.git" />
+          <option name="url" value="https://github.com/OPCFoundation/UA-Java-Legacy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/drucoder/naive.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/ClientServerSocketApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/taxiaggregator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/backend-springboot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/taxiagregatornew.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/mkyong/spring-boot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/examplemvc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/planning-back-end.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/DVorobiev1968/planning-front-end.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\User\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\user26\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
@@ -37,6 +77,7 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
