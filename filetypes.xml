@@ -13,10 +13,10 @@
       <removed_mapping ext="log" approved="true" type="Catdea" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="ANSI Alware" approved="true" type="Log" />
       <removed_mapping pattern="ANSI Aware" approved="true" type="Log" />
       <mapping pattern="*.bat*" type="Batch" />
-      <mapping ext="txt" type="requirements-pro.txt" />
     </extensionMap>
   </component>
 </application>
