@@ -1,8 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="0" />
-    <option name="defaultProjectDirectory" value="C:\Users\user26\IdeaProjects" />
     <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
