@@ -19,6 +19,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="ANSI Alware" approved="true" type="Log" />
       <removed_mapping pattern="ANSI Aware" approved="true" type="Log" />
