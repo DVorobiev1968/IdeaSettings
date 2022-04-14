@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="argfile" type="AUTO_DETECTED" />
-      <mapping pattern="*.bat*" type="Batch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -23,6 +22,7 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="ANSI Alware" approved="true" type="Log" />
       <removed_mapping pattern="ANSI Aware" approved="true" type="Log" />
+      <mapping pattern="*.bat*" type="Batch" />
     </extensionMap>
   </component>
 </application>
