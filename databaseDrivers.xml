@@ -9,5 +9,13 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.3.3" />
     </driver>
+    <driver id="vertica">
+      <artifact id="Vertica" name="Vertica" use="true" version="9.2.0" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.15/influxdb-java-2.15.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
