@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="argfile" type="AUTO_DETECTED" />
-      <mapping pattern="*.bat*" type="Batch" />
+      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -10,11 +10,20 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="2021-12-21" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
+      <mapping pattern="application-**.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.properties" type="Properties" />
+      <mapping pattern="application.properties" type="Properties" />
+      <mapping pattern="bootstrap.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
+      <mapping pattern="application-**.y**ml" type="YAML" />
+      <mapping pattern="application.yaml" type="YAML" />
+      <mapping pattern="bootstrap.yaml" type="YAML" />
+      <mapping pattern="application.yml" type="YAML" />
+      <mapping pattern="bootstrap.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
       <removed_mapping ext="cmd" approved="true" type="Cmd" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
       <removed_mapping ext="log" approved="true" type="Catdea" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
@@ -23,6 +32,7 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="ANSI Alware" approved="true" type="Log" />
       <removed_mapping pattern="ANSI Aware" approved="true" type="Log" />
+      <mapping pattern="*.bat*" type="Batch" />
     </extensionMap>
   </component>
 </application>
