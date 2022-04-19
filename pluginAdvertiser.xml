@@ -2,6 +2,15 @@
   <component name="PluginAdvertiserExtensions">
     <option name="localState">
       <map>
+        <entry key="**spring-configuration-metadata.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.9.png">
           <value>
             <plugin>
@@ -2167,27 +2176,48 @@
             </plugin>
           </value>
         </entry>
+        <entry key="application-**.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="application-**.y**ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="application.properties">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="application.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="application.yml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2215,27 +2245,48 @@
             </plugin>
           </value>
         </entry>
+        <entry key="bootstrap-**.properties">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="bootstrap-**.y**ml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="bootstrap.properties">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="bootstrap.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="bootstrap.yml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
