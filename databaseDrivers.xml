@@ -64,20 +64,10 @@
     <driver id="mysql.8">
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
       <remarks>Testin MySQL Databases</remarks>
       <option name="auto-sync" value="true" />
-      <option name="auto-commit" value="true" />
-      <option name="format-sources-on-sync" value="true" />
-      <option name="send-app-info" value="true" />
-      <option name="source-loading" value="USER_SOURCES" />
-      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
@@ -91,8 +81,13 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
       <option name="auto-sync" value="true" />
@@ -111,7 +106,16 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="vertica">
+      <artifact id="Vertica" name="Vertica" use="true" version="9.2.0" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver">
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.15/influxdb-java-2.15.jar</url>
+      </library>
+      <library>
+        <url>file://$MAVEN_REPOSITORY$/org/influxdb/influxdb-java/2.15/influxdb-java-2.15.jar</url>
+      </library>
     </driver>
   </component>
 </application>
