@@ -771,8 +771,9 @@
         <entry key="*.ignore">
           <value>
             <plugin>
-              <option name="myPluginId" value="mobi.hsz.idea.gitignore" />
-              <option name="myPluginName" value=".ignore" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2348,24 +2349,27 @@
         <entry key="application.properties">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="application.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="application.yml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2414,24 +2418,27 @@
         <entry key="bootstrap.properties">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="com.intellij.properties" />
+              <option name="myPluginName" value="Properties" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="bootstrap.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="bootstrap.yml">
           <value>
             <plugin>
-              <option name="myPluginId" value="dev.eltonsandre.intellij.spring.assistant.plugin" />
-              <option name="myPluginName" value="Spring Initializr and Assistant" />
+              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
+              <option name="myPluginName" value="YAML" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
