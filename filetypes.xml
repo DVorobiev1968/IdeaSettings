@@ -3,12 +3,14 @@
     <extensionMap>
       <mapping pattern="Dockerfile(1)" type="AUTO_DETECTED" />
       <mapping pattern="argfile" type="AUTO_DETECTED" />
+      <mapping pattern="*.bat*" type="Batch" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="2021-12-21" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="model" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="Bat" />
@@ -22,7 +24,6 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern="ANSI Alware" approved="true" type="Log" />
       <removed_mapping pattern="ANSI Aware" approved="true" type="Log" />
-      <mapping pattern="*.bat*" type="Batch" />
     </extensionMap>
   </component>
 </application>
