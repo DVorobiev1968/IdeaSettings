@@ -46,9 +46,13 @@
           <option name="url" value="https://DVorobiev02101968@bitbucket.org/alekseykychkin/ems_backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bbachi/angular-proxy-example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\User\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\user26\AngularProject" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
